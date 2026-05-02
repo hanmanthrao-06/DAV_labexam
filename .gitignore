@@ -2,7 +2,6 @@
 .kiro/
 
 # Large data files — do not upload to GitHub
-notebook/data/
 notebook/powerbi_data/
 
 # Python cache
